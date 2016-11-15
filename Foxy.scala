@@ -1,5 +1,5 @@
 /**
-  * Represents a foxy.
+  * Represents a foxy and it's associated foos.
   * @param id Id of the foxy
   * @param values all associated foos by name
   */
